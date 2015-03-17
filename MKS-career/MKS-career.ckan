@@ -1,0 +1,140 @@
+{
+"spec_version": "v1.6",
+"identifier": "New Career",
+"version": "1",
+"license": "unknown",
+"name": "Backup",
+"abstract": "Backup metapackage of the MKS/OKS save",
+"kind": "metapackage",
+"depends": [
+	{
+		"name": "AlcubierreStandalone"
+	},
+	{
+		"name": "AlternateResourcePanel"
+	},
+	{
+		"name": "CommunityTechTree"
+	},
+	{
+		"name": "ContractConfigurator-ContractPack-SCANsat"
+	},
+	{
+		"name": "ContractsWindowPlus"
+	},
+	{
+		"name": "DDSLoader"
+	},
+	{
+		"name": "DMagicOrbitalScience"
+	},
+	{
+		"name": "ExtraPlanetaryLaunchpads"
+	},
+    {
+        "name": "FerramAerospaceResearch",
+    },
+    {
+        "name": "InfernalRobotics",
+    },
+	{
+		"name": "Karbonite"
+	},
+	{
+		"name": "KarbonitePlus"
+	},
+	{
+		"name": "KAS"
+	},	
+	{
+		"name": "KerbalAlarmClock"
+	},
+	{
+		"name": "KerbalEngineerRedux"
+	},
+	{
+		"name": "KerbalFoundries"
+	},
+	{
+		"name": "KIS"
+	},
+	{
+		"name": "KWRocketry"
+	},
+	{
+		"name": "MechJeb2"
+	},
+	{
+		"name": "MFS"
+	},
+	{
+		"name": "NearFutureConstruction"
+	},
+//	{
+//		"name": "NearFutureElectrical"
+//	},
+	{
+		"name": "NearFuturePropulsion"
+	},
+	{
+		"name": "NearFuturePropulsionExtras"
+	},
+	{
+		"name": "NearFutureSolar"
+	},
+	{
+		"name": "ProceduralFairings"
+	},
+	{
+		"name": "ProceduralParts"
+	},
+	{
+		"name": "RCSBuildAid"
+	},
+	{
+		"name": "SCANsat"
+	},
+	{
+		"name": "ScienceAlert"
+	},
+	{
+		"name": "SpaceY-Lifters"
+	},
+	{
+		"name": "StageRecovery"
+	},
+	{
+		"name": "StationScience"
+	},
+	{
+		"name": "StockBugFixModules"
+	},
+	{
+		"name": "StorkDeliverySystem"
+	},
+	{
+		"name": "TACLS-Config-Stock"
+	},
+	{
+		"name": "Trajectories"
+	},
+	{
+		"name": "TweakableEverything"
+	},
+	{
+		"name": "TweakScale"
+	},
+	{
+		"name": "UKS"
+	},
+	{
+		"name": "UniversalStorage"
+	},
+	{
+		"name": "USI-EXP"
+	},
+	{
+		"name": "USI-FTT"
+	}
+	]
+	}
