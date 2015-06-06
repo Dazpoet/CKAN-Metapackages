@@ -1,9 +1,10 @@
 {
 "spec_version": "v1.6",
-"identifier": "New Career",
+"identifier": "MKS-career",
 "version": "1",
 "license": "unknown",
-"name": "Backup",
+"author" : "Daz"
+"name": "MKS Career",
 "abstract": "Backup metapackage of the MKS/OKS save",
 "kind": "metapackage",
 "depends": [
@@ -70,9 +71,9 @@
 	{
 		"name": "NearFutureConstruction"
 	},
-//	{
-//		"name": "NearFutureElectrical"
-//	},
+	{
+		"name": "NearFutureElectrical"
+	},
 	{
 		"name": "NearFuturePropulsion"
 	},
