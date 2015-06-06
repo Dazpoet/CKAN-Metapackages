@@ -7,7 +7,7 @@
 "name": "MKS Career",
 "abstract": "Backup metapackage of the MKS/OKS save",
 "kind": "metapackage",
-"depends": [
+"recommends": [
 	{
 		"name": "AlcubierreStandalone"
 	},
